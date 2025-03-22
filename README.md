@@ -10,7 +10,8 @@ I'm a highly motivated engineer with experience in building intelligent systems 
 🛠️ Tech Stack & Tools:
 `Python` `FastAPI` `MongoDB` `PostgreSQL` `Apache Airflow`  
 `Docker` `ROS` `OpenCV` `LangChain` `LLaMA` `Hugging Face`  
-`Streamlit` `GCP` `AWS` `CI/CD` `GitHub Actions`
+`Streamlit` `GCP` `AWS` `CI/CD` `GitHub Actions` `Langgraph`
+`Vertex AI` `Docker` `Kubernetes`
 
 📫 Reach out:
 [LinkedIn](https://www.linkedin.com/in/hamza-abbasii/) | [Email](mailto:hamza.abbasi@automotive-ai.com)
