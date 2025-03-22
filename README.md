@@ -14,10 +14,3 @@ I'm a highly motivated engineer with experience in building intelligent systems 
 
 📫 Reach out:
 [LinkedIn](https://www.linkedin.com/in/hamza-abbasii/) | [Email](mailto:hamza.abbasi@automotive-ai.com)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzaabbasi&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaabbasi&layout=compact&theme=tokyonight)
