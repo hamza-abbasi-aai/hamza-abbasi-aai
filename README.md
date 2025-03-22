@@ -1,16 +1,23 @@
-## Hi there 👋
+### 👋 Hi, I'm Hamza — Computer Systems Engineer & GenAI Enthusiast
 
-<!--
-**hamza-abbasi-aai/hamza-abbasi-aai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a highly motivated engineer with experience in building intelligent systems across autonomous driving, AI infrastructure, and real-time data platforms.
 
-Here are some ideas to get you started:
+🧠 Passionate about:
+- Bridging software with real-world systems
+- Designing AI-powered backend services
+- Pushing the boundaries of Generative AI and Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack & Tools:
+`Python` `FastAPI` `MongoDB` `PostgreSQL` `Apache Airflow`  
+`Docker` `ROS` `OpenCV` `LangChain` `LLaMA` `Hugging Face`  
+`Streamlit` `GCP` `AWS` `CI/CD` `GitHub Actions`
+
+📫 Reach out:
+[LinkedIn](https://www.linkedin.com/in/hamza-abbasii/) | [Email](mailto:hamza.abbasi@automotive-ai.com)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamzaabbasi&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaabbasi&layout=compact&theme=tokyonight)
